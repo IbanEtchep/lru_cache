@@ -32,9 +32,9 @@ Exemple d'utilisation
 4) Performances (https:crates.io/crates/criterion si vous voulez mesurer)
 
 ### Pré-requis:
-PAS D'UTILISATION DE LIBS EXTERNES.
-Concepts de borrow checking acquis
-Concepts de struct et implementation
-Je veux une librairie avec des sous modules, que ce soit bien architecturé
-Je veux des tests unitaires et intégrations
-Je veux de la documentation avec des exemples fournis dans la doc
+- PAS D'UTILISATION DE LIBS EXTERNES.
+- Concepts de borrow checking acquis
+- Concepts de struct et implementation
+- Je veux une librairie avec des sous modules, que ce soit bien architecturé
+- Je veux des tests unitaires et intégrations
+- Je veux de la documentation avec des exemples fournis dans la doc
