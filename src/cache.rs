@@ -258,7 +258,7 @@ mod tests {
     #[test]
     fn test_capacity() {
         let mut cache = Cache::with_capacity(3);
-        cache.put("A", String::from(1));
+        cache.put("A", String::from("A"));
         cache.put("B", String::from("B"));
         cache.put("C", String::from("C"));
         cache.put("D", String::from("D"));
